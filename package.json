@@ -1,0 +1,17 @@
+{
+  "name": "keytar-example",
+  "version": "0.0.1",
+  "description": "showing the usage of keytar",
+  "main": "main.js",
+  "scripts": {
+    "build": "./build.sh",
+    "clean": "./clean.sh",
+    "sample": "node basics/put-and-get.js && node basics/get.js",
+    "start" : "code-insiders --extensions-dir ./extensions"
+  },
+  "author": "kieferrm",
+  "license": "MIT",
+  "dependencies": {
+      "keytar": "4.0.4"
+  }
+}
