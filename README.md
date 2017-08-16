@@ -6,6 +6,6 @@ This uses the latest insider of VS Code using electron 1.7.4.
 2. `npm run sample`
 3. If code-insiders is running, quit it.
 4. `npm start`
-5. <kbd>Cmd+Shift+P</kdb> > `Keytar 2: Retrieve Credential`
-6. <kbd>Cmd+Shift+P</kdb> > `Keytar 1: Store Credential`
-7. <kbd>Cmd+Shift+P</kdb> > `Keytar 2: Retrieve Credential`
+5. <kbd>Cmd+Shift+P</kbd> > `Keytar 2: Retrieve Credential`
+6. <kbd>Cmd+Shift+P</kbd> > `Keytar 1: Store Credential`
+7. <kbd>Cmd+Shift+P</kbd> > `Keytar 2: Retrieve Credential`
