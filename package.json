@@ -12,6 +12,6 @@
   "author": "kieferrm",
   "license": "MIT",
   "dependencies": {
-      "keytar": "4.0.4"
+      "keytar": "4.0.5"
   }
 }
